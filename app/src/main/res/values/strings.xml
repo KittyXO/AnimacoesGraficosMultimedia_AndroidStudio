@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Media Cloud</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Media Cloud</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_animacoes">Animaçôes</string>
+    <string name="menu_graficos">Gráficos</string>
+    <string name="menu_imagem">Imagem</string>
+    <string name="menu_audio">Áudio</string>
+    <string name="menu_video">Vídeo</string>
+    <string name="texto_1">Nenhum arquivo selecionado</string>
+
+</resources>
